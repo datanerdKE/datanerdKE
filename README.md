@@ -1,7 +1,7 @@
-- 👋 Hi, I’m datanerdKE
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 👋 Hi, I’m Adrian Julius Aluoch 
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning Data Analytics.
+- 💞️ I’m looking to collaborate on Data Science Projects.
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When the why starts to grow, the how becomes much simple
