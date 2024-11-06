@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Adrian Julius Aluoch 
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Data Analytics.
-- 💞️ I’m looking to collaborate on both Data Science and Analytics Projects and a little bit of Web Developement.
-- 📫 How to reach me adrianjulius04@gmail.com
+- 💞️ I’m looking to collaborate on both Data Science and Analytics Projects.
+- 📫 How to reach me adrianjuliusaluoch@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When the why starts to grow, the how becomes much simple
 
